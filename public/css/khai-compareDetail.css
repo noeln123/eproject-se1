@@ -1,0 +1,111 @@
+body {
+    margin: 0px;
+    padding: 0;
+    font-family: 'Radikal Trial';
+}
+
+
+.content-wrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.content {
+    width: 1310px;
+    margin-top: 30px;
+}
+
+.direction {
+    display: flex;
+    margin-left: 30px;
+}
+
+.direction__block {
+    margin: 0 26px 0 0;
+    position: relative;
+}
+
+.direction__block-notend::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 1px;
+    height: 15px;
+    background-color: black;
+    top: 0;
+    right: -13px;
+    transform: rotate(20deg)
+}
+
+.direction__block-first {
+    text-decoration: underline;
+}
+
+.mainname {
+    text-align: center;
+    font-size: 25px;
+}
+
+.maintable {
+    margin-left: 270px;
+}
+
+table, td {
+    border: 1px solid #E5E5E5;
+    border-collapse: collapse;
+}
+
+.comparetable-table tr:nth-child(odd) {
+    background-color: #F8F8F8;
+  }
+
+.maintable__header {
+    background-color: black;
+    color: white;
+}
+
+.maintable__header-data {
+    width: 420px;
+    text-align: center;
+    padding: 10px;
+}
+
+.maintable__row-data-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.maintable__img {
+    margin: 20px 0 10px 0;
+    width: 200px;
+    object-fit: cover;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.btn-main {
+    background-color: black;
+    color: white;
+}
+
+
+
+.comparetable__row-data {
+    text-align: center;
+    width: 438px;
+}
+
+.comparetable__header {
+    padding: 20px;
+}

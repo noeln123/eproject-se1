@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-BlackItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-BoldItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-LightItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-Light.woff2') format('woff2'),
+        url('./font/RadikalTrial-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-Medium.woff2') format('woff2'),
+        url('./font/RadikalTrial-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-Black.woff2') format('woff2'),
+        url('./font/RadikalTrial-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-Bold.woff2') format('woff2'),
+        url('./font/RadikalTrial-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-MediumItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial UltraThin';
+    src: url('./font/RadikalTrial-UltraThinItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-UltraThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-ThinItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-RegularItalic.woff2') format('woff2'),
+        url('./font/RadikalTrial-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-Thin.woff2') format('woff2'),
+        url('./font/RadikalTrial-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial UltraThin';
+    src: url('./font/RadikalTrial-UltraThin.woff2') format('woff2'),
+        url('./font/RadikalTrial-UltraThin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Radikal Trial';
+    src: url('./font/RadikalTrial-Regular.woff2') format('woff2'),
+        url('./font/RadikalTrial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

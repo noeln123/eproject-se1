@@ -1,0 +1,162 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: auto;
+    justify-items: auto;
+}
+.grid {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    justify-items: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    padding: 20px 0 48px 0;
+}
+
+.container a{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin:0 14px;
+}
+
+.head {
+    background: #333;
+    color: #fff;
+    padding-top: 10px;
+    min-height: 70px;
+}
+
+/* header h1 {
+    float: left;
+} */
+
+/* nav ul {
+    float: right;
+    list-style: none;
+    margin-top: 25px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 40px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+} */
+
+.hero {
+    background: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.hero h2 {
+    margin-bottom: 0px;
+}
+
+.btn {
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.button {
+    margin: 0 0 0 10px;
+	background-color: #ffffff;
+	border: none;
+	border-radius: 10px;
+	padding: 2px 20px;
+    width: 57px;
+}
+.cf-title-02 h3 {
+    text-transform: capitalize;
+}
+.cf-title-02 h3:before {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 60px;
+    height: 2px;
+    background-color: #c50000;
+}
+   
+.cf-title-02 h3 span {
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    line-height: 3em;
+    padding-left: 0.25em;
+    color: rgba(0, 0, 0, 0.4);
+    padding-bottom: 10px;
+}
+.cf-title-alt-two h3 {
+    text-align: center;
+}
+.cf-title-alt-two h3:before {
+    left:50%; margin-left:-30px;
+}
+.txtdeepshadow {
+    text-align: center;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 35px;
+    height: 110px;
+    color: #e0dfdc;
+    background-color: #333;
+    letter-spacing: .1em;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0, 0, 0, 0.9);
+}
+.noti {
+    text-align: center;
+    padding-top: 50px;
+}
+.noti h2 {
+    font-size: 50px;
+    line-height: 50px;
+    font-family: calibri
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    
+}
+
+.box-left{
+    width: 50%;
+    text-align: left;
+    padding-left: 200px;
+}
+
+.box-right{
+    width: 50%;
+    padding-left: 40px;
+}
+
+
+ 
